@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.0199b5e8.css",
-    "main.js": "/static/js/main.fb30df3f.js",
+    "main.css": "/static/css/main.df79c0c0.css",
+    "main.js": "/static/js/main.a4278f1b.js",
     "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
     "static/media/about1.png": "/static/media/about1.9f45e4e0a858a6193bfb.png",
     "static/media/banner1.png": "/static/media/banner1.c59ce266060d117276a1.png",
     "static/media/banner3.png": "/static/media/banner3.ff669fdb840c5c1568dc.png",
     "static/media/farmer.jpg": "/static/media/farmer.9d8dd40b1252326f6a0a.jpg",
-    "static/media/team.jpg": "/static/media/team.6cac387cc4c4d021889d.jpg",
     "static/media/exports.png": "/static/media/exports.5e96e39136aa909f123d.png",
     "static/media/about3.jpg": "/static/media/about3.f2486ee1965104200bb3.jpg",
     "static/media/about2.jpg": "/static/media/about2.09726f47e3ad6080e918.jpg",
@@ -15,12 +14,12 @@
     "static/media/logo.png": "/static/media/logo.ad5d7e45c8e62a8f6a42.png",
     "static/media/about.jpg": "/static/media/about.9c549163bf49283bf52b.jpg",
     "index.html": "/index.html",
-    "main.0199b5e8.css.map": "/static/css/main.0199b5e8.css.map",
-    "main.fb30df3f.js.map": "/static/js/main.fb30df3f.js.map",
+    "main.df79c0c0.css.map": "/static/css/main.df79c0c0.css.map",
+    "main.a4278f1b.js.map": "/static/js/main.a4278f1b.js.map",
     "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0199b5e8.css",
-    "static/js/main.fb30df3f.js"
+    "static/css/main.df79c0c0.css",
+    "static/js/main.a4278f1b.js"
   ]
 }
