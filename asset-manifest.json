@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.03e443b4.css",
-    "main.js": "/static/js/main.e622e70d.js",
+    "main.css": "/static/css/main.5161b9fe.css",
+    "main.js": "/static/js/main.5e161f26.js",
     "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
     "static/media/supply.png": "/static/media/supply.9f45e4e0a858a6193bfb.png",
     "static/media/warehouse3.jpg": "/static/media/warehouse3.05425d2442cad77be020.jpg",
@@ -12,18 +12,26 @@
     "static/media/product3.jpg": "/static/media/product3.7fdcd48986575d7c3291.jpg",
     "static/media/supply1.jpg": "/static/media/supply1.f9cbff6f1bea70b2e447.jpg",
     "static/media/banner1.png": "/static/media/banner1.c59ce266060d117276a1.png",
+    "static/media/product11.jpg": "/static/media/product11.e49cb25bb94353110892.jpg",
     "static/media/supply5.jpg": "/static/media/supply5.ed4d4b62eb29364c43c4.jpg",
+    "static/media/product10.jpg": "/static/media/product10.3eb467c3862e8327a349.jpg",
     "static/media/warehouse4.jpg": "/static/media/warehouse4.ca55f0123d508d2b7fc4.jpg",
     "static/media/warehouse.jpg": "/static/media/warehouse.d4d3d6dc4b9fbd96bb57.jpg",
+    "static/media/fruits2.jpg": "/static/media/fruits2.4129b22f71088efe6c8d.jpg",
+    "static/media/vegetables.jpg": "/static/media/vegetables.b608a1cd6deb9a83a588.jpg",
     "static/media/about4.jpg": "/static/media/about4.3157781c0fa536fcf18f.jpg",
+    "static/media/vegetables2.jpg": "/static/media/vegetables2.c8004ce4a9f616fcee79.jpg",
     "static/media/product8.jpg": "/static/media/product8.f113e353d7935b5df158.jpg",
     "static/media/product6.jpg": "/static/media/product6.e4442a49f14aeba6f9d0.jpg",
     "static/media/product2.jpg": "/static/media/product2.c9e7bd5ea0b645b7a050.jpg",
+    "static/media/fruits1.jpg": "/static/media/fruits1.383a8e259af7f7b94768.jpg",
     "static/media/banner3.png": "/static/media/banner3.ff669fdb840c5c1568dc.png",
     "static/media/farmer.jpg": "/static/media/farmer.9d8dd40b1252326f6a0a.jpg",
     "static/media/supply4.jpg": "/static/media/supply4.5f78f142be0d95273843.jpg",
     "static/media/product5.jpg": "/static/media/product5.4e25e30f6a7e0e9a8535.jpg",
     "static/media/product4.jpg": "/static/media/product4.42525333d2f7e34c840a.jpg",
+    "static/media/product9.jpg": "/static/media/product9.d73fddae49b3f5f82193.jpg",
+    "static/media/vegetables1.jpg": "/static/media/vegetables1.c8c97de0ae5bbdcd65bb.jpg",
     "static/media/product1.jpg": "/static/media/product1.15e6ad9e7018af43101c.jpg",
     "static/media/exports.png": "/static/media/exports.5e96e39136aa909f123d.png",
     "static/media/about3.jpg": "/static/media/about3.f2486ee1965104200bb3.jpg",
@@ -35,16 +43,17 @@
     "static/media/logo.png": "/static/media/logo.ad5d7e45c8e62a8f6a42.png",
     "static/media/jinenghelani.png": "/static/media/jinenghelani.84249b56622689c01903.png",
     "static/media/about.jpg": "/static/media/about.9c549163bf49283bf52b.jpg",
+    "static/media/fruits.jpg": "/static/media/fruits.f3a0baf737e380446020.jpg",
     "static/media/malavpatel.png": "/static/media/malavpatel.204fe2c28899d516847c.png",
     "static/media/quality3.jpg": "/static/media/quality3.fcfc2511f3059f022449.jpg",
     "static/media/hirenghelani.png": "/static/media/hirenghelani.fab587e7f1e572a938ca.png",
     "index.html": "/index.html",
-    "main.03e443b4.css.map": "/static/css/main.03e443b4.css.map",
-    "main.e622e70d.js.map": "/static/js/main.e622e70d.js.map",
+    "main.5161b9fe.css.map": "/static/css/main.5161b9fe.css.map",
+    "main.5e161f26.js.map": "/static/js/main.5e161f26.js.map",
     "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.03e443b4.css",
-    "static/js/main.e622e70d.js"
+    "static/css/main.5161b9fe.css",
+    "static/js/main.5e161f26.js"
   ]
 }
