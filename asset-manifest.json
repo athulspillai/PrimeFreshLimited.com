@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.24fe8c46.css",
-    "main.js": "/static/js/main.27cfcd49.js",
+    "main.css": "/static/css/main.181f36de.css",
+    "main.js": "/static/js/main.09d6955d.js",
     "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
     "static/media/supply.png": "/static/media/supply.9f45e4e0a858a6193bfb.png",
     "static/media/warehouse3.jpg": "/static/media/warehouse3.05425d2442cad77be020.jpg",
+    "static/media/team3.jpg": "/static/media/team3.65e6302a3cd17d6111d5.jpg",
     "static/media/product.jpg": "/static/media/product.fc10fb9e990d645d36b8.jpg",
     "static/media/team2.jpg": "/static/media/team2.b4bdc4db026dfcbc4d7c.jpg",
     "static/media/warehouse1.jpg": "/static/media/warehouse1.a700301956e0d9716b28.jpg",
@@ -13,6 +14,7 @@
     "static/media/supply1.jpg": "/static/media/supply1.f9cbff6f1bea70b2e447.jpg",
     "static/media/banner1.png": "/static/media/banner1.c59ce266060d117276a1.png",
     "static/media/product11.jpg": "/static/media/product11.e49cb25bb94353110892.jpg",
+    "static/media/team4.jpg": "/static/media/team4.68c3d1eee23945a03a41.jpg",
     "static/media/warehouse7.jpg": "/static/media/warehouse7.df596173ed6fa4fce8eb.jpg",
     "static/media/quality2.jpg": "/static/media/quality2.e6de401ab737d3993c14.jpg",
     "static/media/supply5.jpg": "/static/media/supply5.ed4d4b62eb29364c43c4.jpg",
@@ -58,12 +60,12 @@
     "static/media/quality3.jpg": "/static/media/quality3.fcfc2511f3059f022449.jpg",
     "static/media/hirenghelani.png": "/static/media/hirenghelani.fab587e7f1e572a938ca.png",
     "index.html": "/index.html",
-    "main.24fe8c46.css.map": "/static/css/main.24fe8c46.css.map",
-    "main.27cfcd49.js.map": "/static/js/main.27cfcd49.js.map",
+    "main.181f36de.css.map": "/static/css/main.181f36de.css.map",
+    "main.09d6955d.js.map": "/static/js/main.09d6955d.js.map",
     "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.24fe8c46.css",
-    "static/js/main.27cfcd49.js"
+    "static/css/main.181f36de.css",
+    "static/js/main.09d6955d.js"
   ]
 }
