@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.181f36de.css",
-    "main.js": "/static/js/main.09d6955d.js",
+    "main.css": "/static/css/main.0cb7f879.css",
+    "main.js": "/static/js/main.d4e98503.js",
     "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
     "static/media/supply.png": "/static/media/supply.9f45e4e0a858a6193bfb.png",
     "static/media/warehouse3.jpg": "/static/media/warehouse3.05425d2442cad77be020.jpg",
@@ -44,6 +44,7 @@
     "static/media/product4.jpg": "/static/media/product4.42525333d2f7e34c840a.jpg",
     "static/media/product9.jpg": "/static/media/product9.d73fddae49b3f5f82193.jpg",
     "static/media/vegetables1.jpg": "/static/media/vegetables1.c8c97de0ae5bbdcd65bb.jpg",
+    "static/media/twitter.jpg": "/static/media/twitter.e4ac3a949248f8da4590.jpg",
     "static/media/product1.jpg": "/static/media/product1.15e6ad9e7018af43101c.jpg",
     "static/media/exports.png": "/static/media/exports.5e96e39136aa909f123d.png",
     "static/media/about3.jpg": "/static/media/about3.f2486ee1965104200bb3.jpg",
@@ -57,15 +58,19 @@
     "static/media/about.jpg": "/static/media/about.9c549163bf49283bf52b.jpg",
     "static/media/fruits.jpg": "/static/media/fruits.f3a0baf737e380446020.jpg",
     "static/media/malavpatel.png": "/static/media/malavpatel.204fe2c28899d516847c.png",
+    "static/media/instagram.png": "/static/media/instagram.e719d8b29f452a16302d.png",
     "static/media/quality3.jpg": "/static/media/quality3.fcfc2511f3059f022449.jpg",
     "static/media/hirenghelani.png": "/static/media/hirenghelani.fab587e7f1e572a938ca.png",
+    "static/media/ravimenon.jpg": "/static/media/ravimenon.92593ace5b9e9e32ce28.jpg",
+    "static/media/facebook.png": "/static/media/facebook.49e67d43221b6bb1aa86.png",
+    "static/media/linkedin.png": "/static/media/linkedin.6892b3ae328c7a1e055f.png",
     "index.html": "/index.html",
-    "main.181f36de.css.map": "/static/css/main.181f36de.css.map",
-    "main.09d6955d.js.map": "/static/js/main.09d6955d.js.map",
+    "main.0cb7f879.css.map": "/static/css/main.0cb7f879.css.map",
+    "main.d4e98503.js.map": "/static/js/main.d4e98503.js.map",
     "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.181f36de.css",
-    "static/js/main.09d6955d.js"
+    "static/css/main.0cb7f879.css",
+    "static/js/main.d4e98503.js"
   ]
 }
